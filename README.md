@@ -4,4 +4,4 @@ The program consists of a main loop reading all the files in the `images` folder
 
 Original image             |  Resized image
 :-------------------------:|:-------------------------:
-![](https://github.com/Tomeuet02/Trifork_Assignment/blob/main/images/000001_jpg.rf.fddb09e33a544e332617f8ceb53ee805.jpg)  |  ![](https://github.com/Tomeuet02/Trifork_Assignment/blob/main/kitti_annotations_resized/000001_jpg.rf.fddb09e33a544e332617f8ceb53ee805.txt)
+![](https://github.com/Tomeuet02/Trifork_Assignment/blob/main/images/000001_jpg.rf.fddb09e33a544e332617f8ceb53ee805.jpg)  |  ![](https://github.com/Tomeuet02/Trifork_Assignment/blob/main/images_resized/000001_jpg.rf.fddb09e33a544e332617f8ceb53ee805.jpg)
